@@ -1,0 +1,11 @@
+.container{
+    display:grid;
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+    border: solid 2px red;
+}
+
+.hovered{
+    background-color: blue;
+}
